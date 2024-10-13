@@ -1,0 +1,2 @@
+import{a as s,g as o,j as t,r as n,o as a}from"./index-DFHtCH6M.js";const p={activated(){this.fetchJson(this.apiUrl()+"/clips/"+this.$route.params.clipId).then(e=>{this.response=e,this.response.videoId&&this.$router.push("/watch?v=".concat(this.response.videoId))})}};function i(e,c,d,h,l,m){const r=n("ErrorHandler");return e.response&&e.response.error?(a(),o(r,{key:0,message:e.response.message,error:e.response.error},null,8,["message","error"])):t("",!0)}const f=s(p,[["render",i]]);export{f as default};
+//# sourceMappingURL=ClipsPage-ClkOyUvs.js.map

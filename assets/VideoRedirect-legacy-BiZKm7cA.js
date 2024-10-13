@@ -1,0 +1,2 @@
+System.register(["./index-legacy-CmTDz3X_.js"],(function(t,e){"use strict";var r,n,u,i,s;return{setters:[t=>{r=t.a,n=t.w,u=t.c,i=t.o,s=t.h}],execute:function(){t("default",r({activated(){const t=this.$route.params.videoId;t&&this.$router.replace({path:"/watch",query:{v:t,t:this.$route.query.t}})}},[["render",function(t,e,r,a,c,o){const d=s("t");return n((i(),u("div",null,null,512)),[[d,"actions.loading"]])}]]))}}}));
+//# sourceMappingURL=VideoRedirect-legacy-BiZKm7cA.js.map

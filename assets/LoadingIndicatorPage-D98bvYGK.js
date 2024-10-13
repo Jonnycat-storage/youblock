@@ -1,0 +1,2 @@
+import{a as n,o as e,c as t,i as r,b as a}from"./index-DFHtCH6M.js";const c={props:{showContent:{type:Boolean,required:!0}}},i={key:0,class:"min-h-[75vh] w-full flex items-center justify-center"},d=a("span",{id:"spinner"},null,-1),_=[d],l={key:1};function p(o,f,s,h,u,m){return s.showContent?(e(),t("div",l,[r(o.$slots,"default")])):(e(),t("div",i,_))}const y=n(c,[["render",p]]);export{y as L};
+//# sourceMappingURL=LoadingIndicatorPage-D98bvYGK.js.map

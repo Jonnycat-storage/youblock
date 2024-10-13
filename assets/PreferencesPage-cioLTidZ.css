@@ -1,0 +1,1 @@
+.pref{justify-content:space-between;align-items:center;margin:.5rem 15vw;display:flex}@media (max-width:767.9px){.pref{margin-left:2vw;margin-right:2vw}}.pref:nth-child(odd){--un-bg-opacity:1;background-color:rgba(229,231,235,var(--un-bg-opacity))}.dark .pref:nth-child(odd){--un-bg-opacity:1;background-color:rgba(24,24,24,var(--un-bg-opacity))}

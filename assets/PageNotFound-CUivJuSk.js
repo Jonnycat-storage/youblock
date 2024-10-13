@@ -1,0 +1,2 @@
+import{c,w as s,b as e,u as n,o as a,h as _}from"./index-DFHtCH6M.js";const l={class:"min-h-[88vh] flex flex-col items-center justify-center"},r=e("h1",{class:"font-bold !text-9xl"},"404",-1),i={class:"!text-2xl"},h=["href"],x={__name:"PageNotFound",setup(f){const o="/";return(d,u)=>{const t=_("t");return a(),c("div",l,[r,s(e("h2",i,null,512),[[t,"info.page_not_found"]]),s(e("a",{class:"btn mt-16",href:n(o)},null,8,h),[[t,"actions.back_to_home"]])])}}};export{x as default};
+//# sourceMappingURL=PageNotFound-CUivJuSk.js.map
